@@ -1,0 +1,14 @@
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.AssemblyInfoInputs.cache
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.AssemblyInfo.cs
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.csproj.CoreCompileInputs.cache
+C:\GitHub\Programmeringuppgift4\bin\Debug\net9.0\Programmeringuppgift4.exe
+C:\GitHub\Programmeringuppgift4\bin\Debug\net9.0\Programmeringuppgift4.deps.json
+C:\GitHub\Programmeringuppgift4\bin\Debug\net9.0\Programmeringuppgift4.runtimeconfig.json
+C:\GitHub\Programmeringuppgift4\bin\Debug\net9.0\Programmeringuppgift4.dll
+C:\GitHub\Programmeringuppgift4\bin\Debug\net9.0\Programmeringuppgift4.pdb
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.dll
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\refint\Programmeringuppgift4.dll
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.pdb
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\Programmeringuppgift4.genruntimeconfig.cache
+C:\GitHub\Programmeringuppgift4\obj\Debug\net9.0\ref\Programmeringuppgift4.dll
