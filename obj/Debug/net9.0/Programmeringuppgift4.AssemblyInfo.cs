@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programmeringuppgift4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff5e891362405cfb454689bf5613b09ad35e33e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ced5dac53f1036ba1988cb1cb669394024d12d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programmeringuppgift4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programmeringuppgift4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
